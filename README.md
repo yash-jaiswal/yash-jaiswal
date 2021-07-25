@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yash-jaiswal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sidhant Raj
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Building a Ecommerce Website
+- 📫 How to reach me -- Insta @Sidhant.rajj 
 GIT HUB EXPIRY 1ST JUNE 2022
 <!---
 yash-jaiswal/yash-jaiswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
